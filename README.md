@@ -1,12 +1,13 @@
-# React + Vite
+## How to run
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. `npm install` or `npm i` to install all packages
+2. `npm run dev` to run the web app
 
-Currently, two official plugins are available:
+The app runs on port **3000** and can be accessed using `http://localhost:3000` URL in your local device.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Output
+<img width="1710" height="682" alt="image" src="https://github.com/user-attachments/assets/9f693e66-a48d-4ca1-adcc-5a72cfbf4050" />
+<img width="1710" height="228" alt="image" src="https://github.com/user-attachments/assets/4e02496f-a457-4ea6-b1a7-29d8458793b1" />
+<img width="1710" height="293" alt="image" src="https://github.com/user-attachments/assets/437d9423-fcf1-4af8-afd8-034e8e8a07f2" />
+<img width="1710" height="433" alt="image" src="https://github.com/user-attachments/assets/f6b6dba2-6de5-4484-b4a9-5f440db1bef7" />
+<img width="1710" height="356" alt="image" src="https://github.com/user-attachments/assets/37bd57b6-c83b-4857-abf1-81ca6d93f128" />
